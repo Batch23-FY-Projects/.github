@@ -3,7 +3,7 @@ This is an organization to bring developers from Gurukula Kangri under one roof 
 
 # How to join the Organization
 
-1. Fork this ***repository*** and perform a ```pull request
+1. Fork this ***repository*** and perform a ```pull request``` at ```.github/profile/member.txt```  
     - add your name and email in ``members.txt`` file in this repo in the format ``name:{Your Name},email:{Your gkv email}`` in a single line
 
 # Rules in this organisation
