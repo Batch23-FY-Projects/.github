@@ -1,4 +1,4 @@
-# Welcome to Gurukula Kangri (Deemed to be University) on GitHub
+<h1>align="center"Welcome to Gurukula Kangri (Deemed to be University) on GitHub</h1>
 This is an organization to bring developers from Gurukula Kangri under one roof and have fun while developing useful content. We here aim at peer-to-peer learning i.e learn with practice. If that's the case why GKVians be left behind.
 
 # How to join the Organization
