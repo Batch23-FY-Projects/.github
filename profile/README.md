@@ -1,4 +1,12 @@
 <h1 align="center"> Welcome to Gurukula Kangri (Deemed to be University) on GitHub </h1>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Batch23-FY-Projects" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=gkvsocial&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/CivoCloud?label=%40CivoCloud&style=social"></a>  •
+  <a href="https://civo.com">Website</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton">Twitter</a> •
+  <a href="https://civo.com/academy">Civo Academy</a>
+</p>
 This is an organization to bring developers from Gurukula Kangri under one roof and have fun while developing useful content. We here aim at peer-to-peer learning i.e learn with practice. If that's the case why GKVians be left behind.
 
 # How to join the Organization
