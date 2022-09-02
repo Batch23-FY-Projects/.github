@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/Batch23-FY-Projects" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=gkvsocial&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/gkvsocial?label=%40gkvsocial&style=social"></a>  •
-  <a href="https://civo.com">Website</a> •
+  <a href="gkv.ac.in">Website</a> •
   <a href="https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton">Twitter</a> •
   <a href="https://civo.com/academy">Civo Academy</a>
 </p>
